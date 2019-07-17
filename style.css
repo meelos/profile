@@ -4,7 +4,7 @@
 
    body {
      font-family: 'Roboto', sans-serif;
-     color: black;
+     color: rgb(44, 44, 44);
      background: linear-gradient(90deg, #FFCCCC, #CCFFFF);
      line-height: 4vh
 
@@ -95,5 +95,4 @@
 
    .info-text {
      font-size: 3vh;
-     
    }
